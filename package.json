@@ -24,7 +24,7 @@
     "fontfaceobserver": "2.1.0",
     "localforage": "1.5.5",
     "lzutf8": "0.4.7",
-    "underscore": "1.9.1",
+    "underscore": "1.12.1",
     "vis": "file:./vis"
   },
   "devDependencies": {
